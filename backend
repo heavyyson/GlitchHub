@@ -1,0 +1,5 @@
+backend/server.js
+backend/models/User.js
+backend/models/Clip.js
+backend/routes/auth.js
+backend/routes/clips.js
