@@ -1,0 +1,6 @@
+frontend/package.json
+frontend/src/App.js
+frontend/src/styles.css
+frontend/src/components/Feed.js
+frontend/src/components/ClipCard.js
+frontend/src/components/Upload.js
